@@ -1,0 +1,10 @@
+entrada = input("Coloque o numero: ")
+
+try:
+	numero = int(entrada)
+	if numero % 2 == 0:
+	    print("Número par")
+	else:
+	    print("Número ímpar")
+except ValueError:
+	    print("Você não passou um número inteiro")
