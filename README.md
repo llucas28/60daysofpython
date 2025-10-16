@@ -6,3 +6,4 @@
 - [x] Dia 4 - Laço de repetição usando for e while
 - [x] Dia 5 - Função que imprime o quadrado de um número
 - [x] Dia 6 - Lista de frutas
+- [x] Dia 7 - Dicionário de aluno dinâmico e estático
