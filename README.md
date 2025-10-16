@@ -12,3 +12,4 @@
 - [x] Dia 10 - Contador de senhas particular
 - [x] Dia 11 - Usamos a função sorted para ordenar uma lista de números
 - [x] Dia 12 - Busca linear utilizando listas
+- [x] Dia 13 - Função fatorial
