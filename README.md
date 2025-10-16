@@ -9,3 +9,4 @@
 - [x] Dia 7 - Dicionário de aluno dinâmico e estático
 - [x] Dia 8 - Condicional idade para dirigir
 - [x] Dia 9 - Contador personalizado
+- [x] Dia 10 - Contador de senhas particular
