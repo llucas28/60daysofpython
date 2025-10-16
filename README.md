@@ -18,3 +18,4 @@
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Palíndromos
 - [x] Dia 18 - Contabilizar palavras de uma string
+- [x] Dia 19 - Calcular média de notas
