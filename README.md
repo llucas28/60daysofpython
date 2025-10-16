@@ -16,4 +16,5 @@
 - [x] Dia 14 - Calculador de números primos
 - [x] Dia 15 - Fibonacci
 - [x] Dia 16 - Anagramas
-- [] Dia 17 - Palíndromos
+- [x] Dia 17 - Palíndromos
+- [] Dia 18 - 
