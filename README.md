@@ -7,3 +7,4 @@
 - [x] Dia 5 - Função que imprime o quadrado de um número
 - [x] Dia 6 - Lista de frutas
 - [x] Dia 7 - Dicionário de aluno dinâmico e estático
+- [x] Dia 8 - Condicional idade para dirigir
