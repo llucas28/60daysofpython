@@ -1,6 +1,8 @@
 # 60 dias de programação em pyhton
 
-- [x] Dia 1 - Ola Mundo em Python
-- [x] Dia 2 - Soma de dois numeros de duas formas diferentes
-- [x] Dia 3 - Condicional que verifica se um numero e par ou impar
-- [x] Dia 4 - 
+- [x] Dia 1 - Olá Mundo em Python
+- [x] Dia 2 - Soma de dois números de duas formas diferentes
+- [x] Dia 3 - Condicional que verifica se um número é par ou impar
+- [x] Dia 4 - Laço de repetição usando for e while
+- [x] Dia 5 - Função que imprime o quadrado de um número
+- [] Dia 6 - 
