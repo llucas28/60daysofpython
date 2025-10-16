@@ -10,3 +10,4 @@
 - [x] Dia 8 - Condicional idade para dirigir
 - [x] Dia 9 - Contador personalizado
 - [x] Dia 10 - Contador de senhas particular
+- [x] Dia 11 - Usamos a função sorted para ordenar uma lista de números
