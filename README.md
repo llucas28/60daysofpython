@@ -28,3 +28,5 @@
 - [x] Dia 26 - Criando uma função para escrever em .txt
 - [x] Dia 27 - Conversor de temperatura
 - [x] Dia 28 - Cronometro em Python
+- [x] Dia 29 - Gerador de data e hora atual
+- [] Dia 30 - 
