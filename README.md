@@ -27,3 +27,4 @@
 - [x] Dia 25 - Gerador de números
 - [x] Dia 26 - Criando uma função para escrever em .txt
 - [x] Dia 27 - Conversor de temperatura
+- [x] Dia 28 - Cronometro em Python
