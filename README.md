@@ -29,4 +29,4 @@
 - [x] Dia 27 - Conversor de temperatura
 - [x] Dia 28 - Cronometro em Python
 - [x] Dia 29 - Gerador de data e hora atual
-- [] Dia 30 - 
+- [x] Dia 30 - Contagem regressiva em Python
