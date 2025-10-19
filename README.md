@@ -25,3 +25,4 @@
 - [x] Dia 23 - Jogo de adivinhação em Python
 - [x] Dia 24 - Tabuada em Python
 - [x] Dia 25 - Gerador de números
+- [x] Dia 26 - Criando uma função para escrever em .txt
