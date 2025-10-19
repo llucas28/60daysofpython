@@ -22,3 +22,4 @@
 - [x] Dia 20 - Matriz transposta
 - [x] Dia 21 - Conversor de moedas dolar para real
 - [x] Dia 22 - Calculadora IMC
+- [x] Dia 23 - Jogo de adivinhação em Python
