@@ -21,3 +21,4 @@
 - [x] Dia 19 - Calcular média de notas
 - [x] Dia 20 - Matriz transposta
 - [x] Dia 21 - Conversor de moedas dolar para real
+- [x] Dia 22 - Calculadora IMC
