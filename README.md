@@ -30,5 +30,6 @@
 - [x] Dia 28 - Cronometro em Python
 - [x] Dia 29 - Gerador de data e hora atual
 - [x] Dia 30 - Contagem regressiva em Python
-- [x] Dia 31 - Calculo de raiz quadrada 
+- [x] Dia 31 - Cálculo de raíz quadrada 
 - [x] Dia 32 - Lançar dados
+- [x] Dia 33 - Contador de ocorrências
