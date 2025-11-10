@@ -33,3 +33,4 @@
 - [x] Dia 31 - Cálculo de raíz quadrada 
 - [x] Dia 32 - Lançar dados
 - [x] Dia 33 - Contador de ocorrências
+- [x] Dia 34 - Manipulando arquivo JSON
