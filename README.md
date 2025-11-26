@@ -35,4 +35,4 @@
 - [x] Dia 33 - Contador de ocorrências
 - [x] Dia 34 - Manipulando arquivo JSON
 - [x] Dia 35 - Requests em API
-- [x] Dia 36 - 
+- [x] Dia 36 - Crawler em python
