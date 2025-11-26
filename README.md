@@ -36,3 +36,4 @@
 - [x] Dia 34 - Manipulando arquivo JSON
 - [x] Dia 35 - Requests em API
 - [x] Dia 36 - Crawler em python
+- [x] Dia 37 - Leitor de arquivos CSV
