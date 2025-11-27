@@ -37,3 +37,4 @@
 - [x] Dia 35 - Requests em API
 - [x] Dia 36 - Crawler em python
 - [x] Dia 37 - Leitor de arquivos CSV
+- [x] Dia 37 - IA ChatGPT
