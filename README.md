@@ -39,3 +39,4 @@
 - [x] Dia 37 - Leitor de arquivos CSV
 - [x] Dia 38 - IA ChatGPT
 - [x] Dia 39 - Gráficos no terminal
+- [x] Dia 40 - Programação orientada a objeto
