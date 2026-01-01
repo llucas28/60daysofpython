@@ -43,3 +43,4 @@
 - [x] Dia 41 - Herança em python
 - [x] Dia 42 - Modulo OS
 - [x] Dia 43 - Tratando erros com Try e Except
+- [x] Dia 44 - Verificador de e-mail
