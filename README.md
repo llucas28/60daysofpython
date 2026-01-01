@@ -42,3 +42,4 @@
 - [x] Dia 40 - Programação orientada a objeto
 - [x] Dia 41 - Herança em python
 - [x] Dia 42 - Modulo OS
+- [x] Dia 43 - Tratando erros com Try e Except
