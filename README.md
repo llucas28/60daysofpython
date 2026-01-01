@@ -41,3 +41,4 @@
 - [x] Dia 39 - Gráficos no terminal
 - [x] Dia 40 - Programação orientada a objeto
 - [x] Dia 41 - Herança em python
+- [x] Dia 42 - Modulo OS
