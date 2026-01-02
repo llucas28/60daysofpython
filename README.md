@@ -45,3 +45,4 @@
 - [x] Dia 43 - Tratando erros com Try e Except
 - [x] Dia 44 - Verificador de e-mail
 - [x] Dia 45 - Modulo threading
+- [x] Dia 46 - Socket Cliente Servidor
