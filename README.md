@@ -48,3 +48,4 @@
 - [x] Dia 46 - Socket Cliente Servidor
 - [x] Dia 47 - Decorator
 - [x] Dia 48 - Yield em Python
+- [x] Dia 49 - Criando e manipulando banco de dados SQLite
