@@ -47,3 +47,4 @@
 - [x] Dia 45 - Modulo threading
 - [x] Dia 46 - Socket Cliente Servidor
 - [x] Dia 47 - Decorator
+- [x] Dia 48 - Yield em Python
